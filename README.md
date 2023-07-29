@@ -1,1 +1,1 @@
-# generic_template for Python Project
+# BERT-Ktrain_demo
